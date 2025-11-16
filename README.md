@@ -2,6 +2,9 @@
 
 ## Overview
 
+![Screenshot 2025-11-16 at 14 50 09 Medium](https://github.com/user-attachments/assets/7355a936-ccda-48d5-8c13-5039dfc490b2)
+
+
 iOS 26 Liquid Glass represents Apple's most significant design evolution since iOS 7, introduced at WWDC 2025 (June 9, 2025). **Liquid Glass is a translucent, dynamic material that reflects and refracts surrounding content while transforming to bring focus to user tasks**. This unified design language spans iOS 26, iPadOS 26, macOS Tahoe 26, watchOS 26, tvOS 26, and visionOS 26.
 
 Liquid Glass features real-time light bending (lensing), specular highlights responding to device motion, adaptive shadows, and interactive behaviors. The material continuously adapts to background content, light conditions, and user interactions, creating depth and hierarchy between foreground controls and background content.
