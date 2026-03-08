@@ -1,5 +1,7 @@
 # iOS 26 Liquid Glass: Comprehensive Swift/SwiftUI Reference
 
+https://conor.fyi/writing/liquid-glass-reference
+
 ## Overview
 
 ![Screenshot 2025-11-16 at 14 50 09 Medium](https://github.com/user-attachments/assets/7355a936-ccda-48d5-8c13-5039dfc490b2)
